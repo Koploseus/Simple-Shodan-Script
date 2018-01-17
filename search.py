@@ -6,7 +6,7 @@ import sys
 import shodan
 
 def clef_api():
-    clef_shodan = "ow8mFS3q07d4SfGxvBOwUQOeZJu4MxNT" #RENTRER VOTRE CLEF API ICI :)
+    clef_shodan = "" #API KEY
     return clef_shodan
 
 
